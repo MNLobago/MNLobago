@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MNLobago
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Computer Vision 
+- 🌱 I’m currently learning Mathematical Modeling 
 - 💞️ I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me nyatuka2407@gmail.com
 
