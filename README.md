@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning Mathematical Modeling 
 - 💞️ I’m looking to collaborate on Data Science Projects 
-- 📫 How to reach me (Email)[nyatuka2407@gmail.com]
+- 📫 How to reach me [Email](nyatuka2407@gmail.com)
 
 <!---
 MNLobago/MNLobago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
