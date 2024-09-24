@@ -13,4 +13,4 @@ I'm passionate about **Data Science** and **Artificial Intelligence**, constantl
 I’m eager to collaborate on exciting **Data Science projects**! If you have an idea or a project in mind, let’s connect!
 
 ### 📫 Get in Touch
-Feel free to reach out via email: **[nyatuka2407@gmail.com](mailto:nyatuka2407@gmail.com)** for collaboration, questions, or just to chat about data!
+Feel free to reach out via [Email](mailto:nyatuka2407@gmail.com) for collaboration, questions, or just to chat about data!
